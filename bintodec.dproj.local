@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/03/13 07:17:26.000.892,=C:\Users\Bruno\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/03/14 21:34:25.071,=C:\Users\Bruno\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/03/14 21:57:33.736,C:\Users\Bruno\Documents\DELPHI APPS\BIN TO DEC\main.fmx=C:\Users\Bruno\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2020/03/14 21:57:33.736,C:\Users\Bruno\Documents\DELPHI APPS\BIN TO DEC\main.pas=C:\Users\Bruno\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/03/14 21:57:39.086,C:\Users\Bruno\Documents\DELPHI APPS\BIN TO DEC\bintodec.dproj=C:\Users\Bruno\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
